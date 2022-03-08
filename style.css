@@ -1,9 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background: black;
 }
 
 #mainbody{
-    margin-left: 40%;
+    margin-left: 20%;
     margin-top: 10%;
     background: linear-gradient(#097952,#708d97);
     width: 220px;
